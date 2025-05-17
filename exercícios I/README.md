@@ -2,6 +2,7 @@ Para testar os códigos a seguir, é necessário o prompt-sync para capturar ent
 
 
 ✅ Pré-Requisitos: 
+
 Node.js instalado (versão 12+)
 
 Visual Studio Code

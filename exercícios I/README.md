@@ -2,9 +2,11 @@ Para testar os códigos a seguir, é necessário o prompt-sync para capturar ent
 
 ✅ Pré-Requisitos: 
 Node.js instalado (versão 12+)
+
 Visual Studio Code
 
 📝 Passo a Passo de Instalação e Uso:
+
 1 - Abra o terminal do Visual Studio Code, através do menu Terminal > Novo Terminal ou aperte Ctrl + '
 
 2 - Execute o seguinte comando: npm install prompt-sync 
